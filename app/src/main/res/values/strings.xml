@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">COVID-19Tracker</string>
+    <string name="para1">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+    Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.</string>
+    <string name="para2">Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring
+        special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes,
+        chronic respiratory disease, and cancer are more likely to develop serious illness.</string>
+    <string name="para3">The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by
+        washing your hands or using an alcohol based rub frequently and not touching your face. </string>
+    <string name="para4">The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes,
+        so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).</string>
+    <string name="para5">At this time, there are no specific vaccines or treatments for COVID-19. However,
+        there are many ongoing clinical trials evaluating potential treatments.</string>
+    <string name="symp1">COVID-19 affects different people in different ways.
+        Most infected people will develop mild to moderate illness and recover without hospitalization.</string>
+    <string name="symp2">Most common symptoms:</string>
+    <string name="symp3">1.fever.</string>
+    <string name="symp4">2.dry cough.</string>
+    <string name="symp5">3.tiredness.</string>
+    <string name="symp6">Less common symptoms:</string>
+    <string name="symp7">1.aches and pains.</string>
+    <string name="symp8">2.sore throat.</string>
+    <string name="symp9">3.diarrhoea.</string>
+    <string name="symp10">4.conjunctivitis.</string>
+    <string name="symp11">5.headache.</string>
+    <string name="symp12">6.loss of taste or smell.</string>
+    <string name="symp13">7.a rash on skin, or discolouration of fingers or toes.</string>
+
+    <string name="serious1">Serious symptoms:</string>
+    <string name="serious2">1.difficulty breathing or shortness of breath.</string>
+    <string name="serious3">2.chest pain or pressure.</string>
+    <string name="serious4">3.loss of speech or movement.</string>
+
+    <string name="para6">Seek immediate medical attention if you have serious symptoms.  Always call before visiting your doctor or health facility. </string>
+    <string name="para7">People with mild symptoms who are otherwise healthy should manage their symptoms at home.</string>
+    <string name="para8">On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.</string>
+
+    <string name="tips1">To prevent the spread of COVID-19:</string>
+    <string name="tips2">1.Clean your hands often. Use soap and water, or an alcohol-based hand rub.</string>
+    <string name="tips3">2.Maintain a safe distance from anyone who is coughing or sneezing.</string>
+    <string name="tips4">3.Wear a mask when physical distancing is not possible.</string>
+    <string name="tips5">4.Don’t touch your eyes, nose or mouth.</string>
+    <string name="tips6">5.Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.</string>
+    <string name="tips7">6.Stay home if you feel unwell.</string>
+    <string name="tips8">7.If you have a fever, cough and difficulty breathing, seek medical attention.</string>
+    <string name="tips9"></string>
+</resources>
